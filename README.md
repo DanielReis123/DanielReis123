@@ -1,5 +1,4 @@
 ![Banner - Daniel Reis | Analista de Dados](Analista%20de%20Dados_%20Transformando%20Insights%20em%20Decis%C3%B5es.png)
-# 👋 Olá! Eu sou Daniel Reis
 
 ### 📊 Analista de Dados | SQL • Python • Power BI
 
