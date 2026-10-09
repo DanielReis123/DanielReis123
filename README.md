@@ -22,7 +22,7 @@ Meu objetivo é transformar dados em informações relevantes para apoiar decis�
 
 ## 📁 Projetos de Análise de Dados
 
-### 📈 Análise de Vendas e Metas no Varejo
+### 📈 [Análise de Vendas e Metas no Varejo](https://github.com/DanielReis123/analise-varejo-sql-powerbi)
 Projeto de análise de dados utilizando SQL para tratamento, validação e análise de indicadores comerciais.
 
 ### 📊 Demonstração do Resultado do Exercício (DRE)
